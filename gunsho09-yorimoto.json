@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/yorimoto",
  "yomi": "よりもとあそんしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "平安中期（10世紀）",
+  "author": "大中臣頼基",
+  "desc": "三十六歌仙の一人、大中臣頼基の小さな家集。天暦や寛平の御時の屏風歌、大井川の行幸の歌などを収める。"
+ },
  "editions": [
   {
    "pid": "1879517",
@@ -302,6 +307,6 @@
   "poems": 23,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:07:02+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
